@@ -36,10 +36,3 @@ h1{
     border: double;
     border-radius: 40px;
 }
-.flex-container{
-    display:flex;
-    flex-direction:row;
-    justify-content:center;
-    align-items:center;
-    gap:15px;
-}
