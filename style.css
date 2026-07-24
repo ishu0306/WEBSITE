@@ -36,3 +36,6 @@ h1{
     border: double;
     border-radius: 40px;
 }
+.flex-container{
+    display:flex;
+}
