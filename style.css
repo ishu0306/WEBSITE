@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(153, 149, 145);
+}
+
+h1{
+    color: rgb(26, 20, 20);
+    text-align: center;
+     margin-top: 0px; 
+    border: dotted;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    font-size: 40px;
+    background-color: bisque;
+}
+.ishu{
+    background-color: rgb(254, 254, 253);
+    border: double;
+    border-radius: 40px;
+}
+.myclass{
+    background-color: rgb(254, 254, 253);
+    border: double;
+    border-radius: 40px; 
+}
+.MYCLASS2{
+   background-color: rgb(254, 254, 253);
+    border: double;
+    border-radius: 40px; 
+}
+.myclass3{
+    background-color: rgb(254, 254, 253);
+    border: double;
+    border-radius: 40px;
+}
