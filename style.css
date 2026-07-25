@@ -36,3 +36,8 @@ h1{
     border: double;
     border-radius: 40px;
 }
+.myclass4{
+    background-color: rgb(225, 225, 230);
+    border: double;
+    border-radius: 60px;
+}
