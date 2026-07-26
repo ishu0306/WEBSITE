@@ -43,6 +43,6 @@ h1{
 }
 .myclass5{
      background-color: rgb(220, 220, 212);
-    border: double;
-    border-radius: 40px;
+     border: double;
+     border-radius: 40px;
 }
